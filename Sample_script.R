@@ -11,6 +11,7 @@
 # git config --global user.email "you@example.com"
 # git config --global user.name "Your Name"
 
+# okay but does this work or what
 # Libraries ----
 library(ggplot2)
 # Functions ----
@@ -45,7 +46,7 @@ temp_elevation <- read.csv("temp_elevation.csv")
    labs(x = "Elevation (m)", y = "Mean soil temperature (°C)") +
    theme.clean())
 
-
+print("hellow world")
 
 # Save your plot in your project directory
 
