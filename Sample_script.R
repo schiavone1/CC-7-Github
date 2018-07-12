@@ -8,8 +8,8 @@
 # Add in purpose of this script
 # To learn about version control on github
 
-# git config --global user.email "you@example.com"
-# git config --global user.name "Your Name"
+#git config --global user.email "sarah.schiavone1@gmail.com"
+#git config --global user.name "schiavone1"
 
 # okay but does this work or what
 # Libraries ----
